@@ -1,0 +1,11 @@
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericMaxMin\bin\Debug\GenericMaxMin.exe.config
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericMaxMin\bin\Debug\GenericMaxMin.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericMaxMin\bin\Debug\GenericMaxMin.pdb
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericMaxMin\obj\Debug\GenericMaxMin.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericMaxMin\obj\Debug\GenericMaxMin.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericMaxMin\bin\Debug\GenericMaxMin.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericMaxMin\obj\Debug\GenericMaxMin.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericMaxMin\obj\Debug\GenericMaxMin.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericMaxMin\bin\Debug\GenericMaxMin.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericMaxMin\bin\Debug\GenericMaxMin.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericMaxMin\obj\Debug\GenericMaxMin.csprojResolveAssemblyReference.cache

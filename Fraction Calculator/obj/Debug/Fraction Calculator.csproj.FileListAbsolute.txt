@@ -1,0 +1,12 @@
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\Fraction Calculator\bin\Debug\Fraction Calculator.exe.config
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\Fraction Calculator\bin\Debug\Fraction Calculator.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\Fraction Calculator\bin\Debug\Fraction Calculator.pdb
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\Fraction Calculator\obj\Debug\Fraction Calculator.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\Fraction Calculator\obj\Debug\Fraction Calculator.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\Fraction Calculator\obj\Debug\Fraction Calculator.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\Fraction Calculator\bin\Debug\Fraction Calculator.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\Fraction Calculator\obj\Debug\Fraction Calculator.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\Fraction Calculator\obj\Debug\Fraction Calculator.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\Fraction Calculator\bin\Debug\Fraction Calculator.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\Fraction Calculator\bin\Debug\Fraction Calculator.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\Fraction Calculator\obj\Debug\Fraction Calculator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\users\pc-pc\documents\visual studio 2015\Projects\OtherTypesOOPHomework\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GalacticGPS\bin\Debug\GalacticGPS.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GalacticGPS\bin\Debug\GalacticGPS.pdb
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GalacticGPS\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GalacticGPS\obj\Debug\GalacticGPS.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GalacticGPS\obj\Debug\GalacticGPS.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GalacticGPS\obj\Debug\GalacticGPS.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GalacticGPS\obj\Debug\GalacticGPS.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GalacticGPS\bin\Debug\GalacticGPS.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GalacticGPS\bin\Debug\GalacticGPS.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GalacticGPS\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache

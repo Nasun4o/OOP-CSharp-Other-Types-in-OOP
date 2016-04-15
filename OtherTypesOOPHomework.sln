@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalacticGPS", "GalacticGPS\GalacticGPS.csproj", "{3D209A66-1C82-4FBD-A686-85F045C2A671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction Calculator", "Fraction Calculator\Fraction Calculator.csproj", "{67C06C4F-5BF8-4DCE-9E90-6A57CBC8D26F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{DFFCFF76-4A91-4CB5-88C3-8DA1233427F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMaxMin", "GenericMaxMin\GenericMaxMin.csproj", "{E8135A37-4666-4633-B55E-400DF7E39ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D209A66-1C82-4FBD-A686-85F045C2A671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D209A66-1C82-4FBD-A686-85F045C2A671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D209A66-1C82-4FBD-A686-85F045C2A671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D209A66-1C82-4FBD-A686-85F045C2A671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C06C4F-5BF8-4DCE-9E90-6A57CBC8D26F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C06C4F-5BF8-4DCE-9E90-6A57CBC8D26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C06C4F-5BF8-4DCE-9E90-6A57CBC8D26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C06C4F-5BF8-4DCE-9E90-6A57CBC8D26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFFCFF76-4A91-4CB5-88C3-8DA1233427F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFCFF76-4A91-4CB5-88C3-8DA1233427F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFCFF76-4A91-4CB5-88C3-8DA1233427F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFCFF76-4A91-4CB5-88C3-8DA1233427F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8135A37-4666-4633-B55E-400DF7E39ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8135A37-4666-4633-B55E-400DF7E39ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8135A37-4666-4633-B55E-400DF7E39ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8135A37-4666-4633-B55E-400DF7E39ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericList\bin\Debug\GenericList.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericList\bin\Debug\GenericList.pdb
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericList\obj\Debug\GenericList.exe
+C:\Users\PC-PC\Documents\Visual Studio 2015\Projects\OtherTypesOOPHomework\GenericList\obj\Debug\GenericList.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericList\obj\Debug\GenericList.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericList\obj\Debug\GenericList.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericList\bin\Debug\GenericList.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericList\bin\Debug\GenericList.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Other Types\OtherTypesOOPHomework\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
